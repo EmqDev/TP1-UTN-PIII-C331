@@ -54,6 +54,10 @@ section{
   box-sizing: border-box;
 }
 
+button{
+  border-radius: 15px;
+}
+
 footer{
 
   grid-column: span 2;
@@ -70,11 +74,33 @@ footer{
   user-select: none;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+
+  .contenedor-productos{
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+  }
+  
+  .producto{
+    width: 100%;
+    padding: 10px;
+  }
+
+  
+  img{
+  width: 60%;  
+  }
+
 }
+
+img{
+width: 65%;  
+}
+
 
 .b-example-divider {
   width: 100%;
