@@ -1,10 +1,18 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
 html,
 body {
   height: 100%;
   background-image: url("../assets/img/Designer.jpeg");
   background-repeat: no-repeat;
   background-size:cover;
-}
+} 
+
+
 
 .form-signin {
   max-width: 330px;
@@ -67,6 +75,10 @@ body {
   fill: currentColor;
 }
 
+.navbar{
+  background-color: rgba(33, 37, 41, .80);
+}
+
 .nav-scroller {
   position: relative;
   z-index: 2;
@@ -85,22 +97,7 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 
-.btn-bd-primary {
-  --bd-violet-bg: #712cf9;
-  --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
 
-  --bs-btn-font-weight: 600;
-  --bs-btn-color: var(--bs-white);
-  --bs-btn-bg: var(--bd-violet-bg);
-  --bs-btn-border-color: var(--bd-violet-bg);
-  --bs-btn-hover-color: var(--bs-white);
-  --bs-btn-hover-bg: #6528e0;
-  --bs-btn-hover-border-color: #6528e0;
-  --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-  --bs-btn-active-color: var(--bs-btn-hover-color);
-  --bs-btn-active-bg: #5a23c8;
-  --bs-btn-active-border-color: #5a23c8;
-}
 
 .bd-mode-toggle {
   z-index: 1500;
@@ -111,7 +108,8 @@ body {
 }
 
 footer p{
+  margin-top: 80px;
   color: white;
   text-align: center;
-  text-shadow: 1px 1px 2px black;
+  text-shadow: 1px 1px 6px black;
 }
