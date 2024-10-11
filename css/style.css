@@ -5,24 +5,12 @@
 }
 
 body {
-  background: linear-gradient(-45deg,#0d98aa, #2C2C2C ,  #4A4A4A , #00ff5e);
-  background-size: 800% 800%;
+  background-image: url("../assets/img/background.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
-  animation: gradient 15s ease infinite;
-  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.65); 
+  background-blend-mode: multiply; 
 }
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-} 
 
 
 header{
