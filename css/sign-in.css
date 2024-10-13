@@ -10,8 +10,8 @@ body {
   background-image: url("../assets/img/Designer.jpeg");
   background-repeat: no-repeat;
   background-size:cover;
+ 
 } 
-
 
 
 .form-signin {
@@ -35,7 +35,6 @@ body {
 }
 
 .form-signin input[type="password"] {
-  margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
@@ -106,6 +105,12 @@ body {
 .bd-mode-toggle .dropdown-menu .active .bi {
   display: block !important;
 }
+
+.form-check-label{
+  color: white;
+  text-shadow: 1px 1px 6px black;
+}
+
 
 footer p{
   margin-top: 80px;

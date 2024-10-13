@@ -3,6 +3,7 @@
 <br/>
 
 # Trabajo Práctico Parte 1 — HTML CSS
+## Alumno: Esteban Marcelo Quiroz
 
 ## Objetivo
 
