@@ -45,7 +45,9 @@ Usando la estructura estandar de un documento html, deberá crear un conjunto de
 Además, agregue la siguiente información a su archivo `README`:
 
 - ¿Hay alguna mejora que pueda hacer en su envío?
+  Lo que agregaria son cambios en la parte del blog para que se pueda ver mejor cuando se accedan a los temas, en la pagina de contactos agregaria el mapa para que pueda ubicar el lugar o la oficina, y que se pueda mandar consultas, en la pagina de inicio agregaria el boton para subir que me falto.
 - ¿Qué haría de manera diferente si se le asignara más tiempo?
+  lo mencionado anteriormente, y le sumaria que se agregue dinamicamente el item de los productos.
   <br/>
   <br/>
 
