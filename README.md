@@ -5,6 +5,8 @@
 # Trabajo Práctico Parte 1 — HTML CSS
 ## Alumno: Esteban Marcelo Quiroz
 
+## [Ejemplo](https://estebamq.github.io/TP1-UTN-PIII-C331/ )
+
 ## Objetivo
 
 El objetivo de este trabajo práctico es que los estudiantes demuestren sus habilidades con las herramientas que utilizarán en el desarrollo web. Está diseñado para evaluar sus capacidades en la creación de sitios web estáticos mediante HTML y CSS.
