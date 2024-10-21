@@ -5,7 +5,7 @@
 # Trabajo Práctico Parte 1 — HTML CSS
 ## Alumno: Esteban Marcelo Quiroz
 
-## [Deploy en github pages](https://estebamq.github.io/TP1-UTN-PIII-C331/ )
+## [Deploy en github pages](https://emqdev.github.io/TP1-UTN-PIII-C331/ )
 
 ## Objetivo
 
