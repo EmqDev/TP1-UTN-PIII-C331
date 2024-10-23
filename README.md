@@ -47,9 +47,9 @@ Usando la estructura estandar de un documento html, deberá crear un conjunto de
 Además, agregue la siguiente información a su archivo `README`:
 
 - ¿Hay alguna mejora que pueda hacer en su envío?
-  Lo que agregaria son cambios en la parte del blog para que se pueda ver mejor cuando se accedan a los temas, en la pagina de contactos agregaria el mapa para que pueda ubicar el lugar o la oficina, y que se pueda mandar consultas, en la pagina de inicio agregaria el boton para subir que me falto.
+  
 - ¿Qué haría de manera diferente si se le asignara más tiempo?
-  lo mencionado anteriormente, y le sumaria que se agregue dinamicamente el item de los productos.
+  (estas dos preguntas las respondo abajo en la parte 1b)
   <br/>
   <br/>
 
@@ -107,3 +107,39 @@ Necesitará construir las siguientes pagínas:
 > Happy coding!
 
 <img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="150">
+
+
+
+<br/>
+<br/>
+
+# Trabajo Práctico Parte 1b — HTML CSS
+
+## Objetivo
+
+El objetivo de este trabajo práctico es que los estudiantes compartan su experiencia durante la realización del TP1 HTML y CSS.
+
+**Fecha de entrega:** 25 de octubre.
+<br/>
+<br/>
+
+## Desarrollo del trabajo práctico
+
+- Debe descargar este documento y completarlo.
+- Una vez que esté listo, suba el archivo a su repositorio público donde entregó su TP.
+
+<br/><br/>
+
+## Trabajo Práctico
+
+En base a su experiencia en el desarrollo de la parte práctica del TP1
+
+- ¿Hay alguna mejora que pueda hacer en su envío? (TP1)<br/>
+  `  Lo que agregaria son cambios en la parte del blog para que se pueda ver mejor cuando se accedan a los temas, en la pagina de contactos agregaria el mapa para que pueda ubicar el lugar o la oficina, y que se pueda mandar consultas, en la pagina de inicio agregaria el boton para subir que me falto.
+`<br/><br/>
+- ¿Qué haría de manera diferente si se le asignara más tiempo?<br/>
+  `lo mencionado anteriormente, y le sumaria que se agregue dinamicamente el item de los productos.`<br/><br/>
+- En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
+  `que se adapte el diseño resposivo cuando muestro los cursos.`<br/><br/>
+- En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
+  `La idea original era una web que pueda utilizarse como plataforma elearning con gamificacion, pero necesitaria mas tiempo para desarrollarla, por eso decante por esta opcion que tenga algo de la idea original y orientarlo a cursos con IA.`<br/><br/>
